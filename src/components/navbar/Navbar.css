@@ -1,0 +1,18 @@
+.nav{
+    width: 100vw;
+    height: 5vh;
+    /* background-color: rgb(227, 233, 233); */
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nav__href{
+    padding: 5px;
+}
+
+.nav__input {
+    background-color: white;
+    color: white;
+    justify-items: end;
+}
